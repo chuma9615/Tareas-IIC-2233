@@ -10,7 +10,8 @@ Cada tarea está contenida en una carpeta llamada `TXX` donde `XX` es el numero 
 * ...
 
 
+Dentro de cada tarea hay un archivo `README.md`en la carpeta de la tarea correspondiente con información útil como por ejemplo
 
 * Instrucciones de uso o archivo principal a ejecutar para correr la tarea
 * Librerías externas necesarias, en caso de que hayas utilizado alguna que sea autorizada por los ayudantes
-* ... cualquier cosa extra que creas que el ayudante deba saber sobre tu tarea para poder corregirla
+* ... cosas extras importantes para la ejecucuion del codigo
