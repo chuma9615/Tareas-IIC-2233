@@ -1,0 +1,5 @@
+numero_creditos,ocurrencia,rango_min,rango_max
+prob_40_creditos,0.1,10,25
+prob_50_creditos,0.7,10,15
+prob_55_creditos,0.15,5,15
+prob_60_creditos,0.05,5,10

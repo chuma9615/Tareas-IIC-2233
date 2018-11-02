@@ -1,0 +1,31 @@
+Catedra: una vez a la semana 2 modulos seguidos/hay siempre actividades donde se presentan los alumnos, el profesor y los ayudantes
+
+Cotroles: usualmente 1 por semana rendido, maximo 5 en catedra/participan alumnos profesores y ayudantes
+
+Corregir notas: tiempo variable/ participan ayudantes y gatilla la accion entregar notas
+
+Entregar notas: justo despues de corregirlas/participan ayudantes y ayudante coordinador
+
+Reunion para definir dificultad actividad: una vez por semana para definir ruta que toman las activifdades/ayudantes de docencia
+
+Ayudantia: una vez a la semana 1 modulo, se presenta el ayudante designado y los alumnos.
+
+Examen: al final del semestre, una vez/participan alumnoa , ayudantes y profesor
+
+Tareas: 7 en total, cada 15 dias/participan alumnos y ayudantes
+
+Reunion tareas: cada 14 dias/ participan ayudantes de tarea
+
+Botar ramo: una vez /participa alumno
+
+Estudiar: una vez al dia (horas deoenden de la variable aleatoira) /participan alumnos
+
+Fiesta: van 50 alumnos y se pierden 2 dias de estudip/50 alumnos al azar
+
+Partido de futbol: 1 en 70 dias de valor esperado y los alumnos y ayudantes cesan sus actividades
+
+Corte de agua: 1 vez cada 21 dias esperado y ocurrencia maxima 1 por semana, los alumnos elegidos para ir con el profesor a consultas baja a 6
+
+escuchar tips: ocurren durante la clase/participa alumno y hace aumentar su nivel de programacion
+
+Creacion de creditos: 1 vez al inicio de la simulacion/ participan alumnos para elegir numero de creditos tomados
